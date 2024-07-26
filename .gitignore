@@ -1,0 +1,71 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+*.dll
+*.dylib
+*.so
+*.jar
+*.war
+*.ear
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Intermediate files
+*.ilk
+*.map
+*.d
+*.tlog
+
+# Layout
+*.obj*
+*.bin*
+*.user
+*.wixproj
+*.sdf
+*.opensdf
+*.vcxproj
+*.filters
+*.rsuser
+
+# DotNet
+bin/
+obj/
+*.log
+*.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.DS_Store
+*.directory
